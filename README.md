@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rénald</h1>
+<h3 align="center">
+    A passionate 💻 Software Engineering student from Martinique
+</h3>
 
-<!--
-**donotdisturb7/donotdisturb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://media.giphy.com/media/12PyoTG79bZLEI/giphy.gif"
+        alt="luffy-gif" align="center" />
+</div>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <p>💻 I’m currently studying Software Engineering</p>
+    <p>⚗️ I’m currently learning VueJs and Bash</p>
+</div>
+
+
+## Checkout my portfolio 📝
+
+[Take a look 👀](#)
+
+<hr />
+
+[![GitHub
+donotdisturb7](https://img.shields.io/github/followers/zoddDev?label=follow&style=social)](https://github.com/donotdisturb7)
