@@ -16,9 +16,7 @@
 </div>
 
 
-## Checkout my portfolio 📝
 
-[Take a look 👀](#)
 
 <hr />
 
