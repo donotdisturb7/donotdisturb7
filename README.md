@@ -20,5 +20,5 @@
 
 <hr />
 
-[![GitHub
+[![GitHub]
 (https://komarev.com/ghpvc/?username=donotdisturb7&color=red)
