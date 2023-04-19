@@ -21,4 +21,4 @@
 <hr />
 
 [![GitHub
-donotdisturb7](https://img.shields.io/github/followers/donotdisturb7?label=follow&style=social)](https://github.com/donotdisturb7)
+donotdisturb7]![](https://komarev.com/ghpvc/?username=donotdisturb7&color=red)
