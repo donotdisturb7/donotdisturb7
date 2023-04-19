@@ -21,4 +21,4 @@
 <hr />
 
 [![GitHub
-donotdisturb7]![](https://komarev.com/ghpvc/?username=donotdisturb7&color=red)
+(https://komarev.com/ghpvc/?username=donotdisturb7&color=red)
