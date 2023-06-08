@@ -12,7 +12,7 @@
 
 <div align="center">
     <p>💻 I’m currently studying Software Engineering</p>
-    <p>⚗️ I’m currently learning VueJs and Bash</p>
+    <p>⚗️ I’m currently learning C++</p>
 </div>
 
 
