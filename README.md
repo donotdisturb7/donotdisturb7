@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rénald</h1>
 <h3 align="center">
-    A passionate 💻 Software Engineering student from Martinique
+    A passionate 💻 computer science student from Martinique
 </h3>
 
 <div align="center">
