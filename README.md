@@ -11,8 +11,8 @@
 <hr>
 
 <div align="center">
-    <p>💻 I’m currently studying Software Engineering</p>
-    <p>⚗️ I’m currently learning C++</p>
+    <p>💻 I’m currently studying Computer science</p>
+    <p>⚗️ I’m currently learning JavaScript</p>
 </div>
 
 
