@@ -10,10 +10,6 @@
 
 <hr>
 
-<div align="center">
-    <p>💻 I’m currently studying Computer science</p>
-    <p>⚗️ I’m currently learning JavaScript</p>
-</div>
 
 
 ![Snake](https://github.com/donotdisturb7/donotdisturb7/blob/main/assets/snake.svg)
